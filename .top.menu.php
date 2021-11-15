@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О фабрике", 
+		"/company/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Покупателям", 
+		"/help/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Партнёрам", 
+		"/info/dileram", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Кредитование", 
+		"/services/dopolnitelnye-uslugi/kreditovanie/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Магазины", 
+		"/contacts/stores/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
